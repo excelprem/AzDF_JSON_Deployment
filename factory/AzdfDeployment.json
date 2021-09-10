@@ -1,0 +1,9 @@
+{
+	"name": "AzdfDeployment",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36dac0da-2a61-4e6f-ac78-c1d063a063e3",
+		"tenantId": "8cbce57f-90cb-4d3c-8d70-3cc790635088"
+	}
+}

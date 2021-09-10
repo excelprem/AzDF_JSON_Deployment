@@ -7,7 +7,12 @@
 				"description": "Trial VAriable",
 				"type": "AppendVariable",
 				"dependsOn": [],
-				"userProperties": []
+				"userProperties": [
+					{
+						"name": "Age",
+						"value": "30"
+					}
+				]
 			}
 		],
 		"annotations": []
